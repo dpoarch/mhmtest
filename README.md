@@ -6,7 +6,7 @@ This test is intended to test your basic facility with a Node JS Backend. As suc
 
 Stylistically this is about as bad as we could do on short notice. You are free to fix any things that really annoy you, but those aren't core tasks.
 
-Consider fixing bad name choices.  Feel free to rename methods and even call signatures to things that make sense to you.  There is no right or wrong, but
+Consider fixing bad name choices.  Feel free to rename methods and even URL paths to things that make sense to you.  There is no right or wrong, but
 we'd like to get a sense of your style.  The structure is lame too.  If you want to move things to different files or folders, go nuts.
 
 There are two core tasks:
