@@ -3,7 +3,6 @@
 
 //NOTE:  Please leave these methods async.
 
-// Bonus points, why?
 async function getUsers() {
   await whatIsThisDoing(200);
   return [
@@ -24,7 +23,6 @@ function whatIsThisDoing(ms) {
   return new Promise((doSomething) => setTimeout(doSomething, ms));
 }
 
-// Bonus points, why?
 async function getAllClasses() {
   await whatIsThisDoing(200);
   return [
