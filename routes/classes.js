@@ -1,8 +1,8 @@
 const express = require('express');
-const { users } = require('../handlers');
+const { classes } = require('../handlers');
 const router = express.Router();
 
 /* GET users listing. */
-router.get('/', users.getAllUsers);
+router.get('/', classes.getAllClasses);
 
 module.exports = router;
